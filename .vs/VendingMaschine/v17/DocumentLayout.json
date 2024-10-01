@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{307A1AB2-EB15-486D-A6A1-FEDE399EEF8C}|VendingMaschine\\VendingMaschine.csproj|c:\\users\\fpg12\\onedrive\\skrivbord\\dotnet\\w44\\vendingmaschine\\vendingmaschine\\ivending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A1AB2-EB15-486D-A6A1-FEDE399EEF8C}|VendingMaschine\\VendingMaschine.csproj|solutionrelative:vendingmaschine\\ivending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307A1AB2-EB15-486D-A6A1-FEDE399EEF8C}|VendingMaschine\\VendingMaschine.csproj|c:\\users\\fpg12\\onedrive\\skrivbord\\dotnet\\w44\\vendingmaschine\\vendingmaschine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A1AB2-EB15-486D-A6A1-FEDE399EEF8C}|VendingMaschine\\VendingMaschine.csproj|solutionrelative:vendingmaschine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307A1AB2-EB15-486D-A6A1-FEDE399EEF8C}|VendingMaschine\\VendingMaschine.csproj|c:\\users\\fpg12\\onedrive\\skrivbord\\dotnet\\w44\\vendingmaschine\\vendingmaschine\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A1AB2-EB15-486D-A6A1-FEDE399EEF8C}|VendingMaschine\\VendingMaschine.csproj|solutionrelative:vendingmaschine\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E3D4B-E1A9-419E-BEE9-50288873EB16}|UnitTest\\UnitTest.csproj|c:\\users\\fpg12\\onedrive\\skrivbord\\dotnet\\w44\\vendingmaschine\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E3D4B-E1A9-419E-BEE9-50288873EB16}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w42\\LawnMover\\LawnMover\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\TO\\TicketOffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketOffice.cs",
+              "DocumentMoniker": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\TO\\TicketOffice.cs",
+              "RelativeDocumentMoniker": "..\\..\\TO\\TicketOffice.cs",
+              "ToolTip": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\TO\\TicketOffice.cs",
+              "RelativeToolTip": "..\\..\\TO\\TicketOffice.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwDcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:31:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w42\\LawnMover\\LawnMover\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\w42\\LawnMover\\LawnMover\\Program.cs",
+              "ToolTip": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w42\\LawnMover\\LawnMover\\Program.cs",
+              "RelativeToolTip": "..\\..\\w42\\LawnMover\\LawnMover\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAcwHYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:51:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:04:57.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVending.cs",
+              "DocumentMoniker": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\VendingMaschine\\IVending.cs",
+              "RelativeDocumentMoniker": "VendingMaschine\\IVending.cs",
+              "ToolTip": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\VendingMaschine\\IVending.cs",
+              "RelativeToolTip": "VendingMaschine\\IVending.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv1QAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:36:17.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\VendingMaschine\\Program.cs",
+              "RelativeDocumentMoniker": "VendingMaschine\\Program.cs",
+              "ToolTip": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\VendingMaschine\\Program.cs",
+              "RelativeToolTip": "VendingMaschine\\Program.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:41:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\VendingMaschine\\Products.cs",
+              "RelativeDocumentMoniker": "VendingMaschine\\Products.cs",
+              "ToolTip": "C:\\Users\\fpg12\\OneDrive\\Skrivbord\\DotNet\\w44\\VendingMaschine\\VendingMaschine\\Products.cs",
+              "RelativeToolTip": "VendingMaschine\\Products.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:52:25.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

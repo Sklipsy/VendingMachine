@@ -1,0 +1,15 @@
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\bin\Debug\net8.0\VendingMaschine.exe
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\bin\Debug\net8.0\VendingMaschine.deps.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\bin\Debug\net8.0\VendingMaschine.runtimeconfig.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\bin\Debug\net8.0\VendingMaschine.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\bin\Debug\net8.0\VendingMaschine.pdb
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.AssemblyInfoInputs.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.AssemblyInfo.cs
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.csproj.CoreCompileInputs.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.sourcelink.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\refint\VendingMaschine.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.pdb
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\VendingMaschine.genruntimeconfig.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w44\VendingMaschine\VendingMaschine\obj\Debug\net8.0\ref\VendingMaschine.dll
